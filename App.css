@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+#inputalanı{
+  background-color: white;
+  width: 250px;
+}
+#inputalanı2{
+  background-color: white;
+  width: 250px;
+}
+#button{
+  background-color: rgba(247, 231, 231, 0.692);
+}
+#button{
+  position: relative;
+  left: 105px;
+}
+
+
